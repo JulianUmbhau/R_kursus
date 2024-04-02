@@ -1,6 +1,7 @@
 # R aftenskole
 2 undervisningsgange af 3 timer inklusive pauser \
-Der vil også være øvelser som frivilligt hjemmearbejde.
+30 minutter før og efter hver undervisningsgang, til Q&A \
+Øvelser som frivilligt hjemmearbejde.
 
 ### Nødvendigt for kursister
 - Egen computer med R installeret og RStudio installeret
@@ -37,9 +38,11 @@ Du kommer til at få indsigt i
 OBS: Dette er tilregnet den som er helt ny indenfor programmeringssprog. 
 Pga. Kursets varighed og fokus, kommer vi ikke til at beskæftige os med dybere emner såsom statistiske analyser, machine learning, kode versionering, kodning best practice og lignende emner
 
-#### Se et eksempel på data analyse og visualisering udført i R
+#### Se et grundlæggende eksempel på interaktiv data visualisering udført i R
 https://julian-johannes-umbhau-jensen.shinyapps.io/workspace/ \
-(Det kan tage op til 30 sekunder for at loade, fordi serveren er i dvaletilstand)
+(Det kan tage op til 1 minut at loade, da det kører på en gratis server som er i dvaletilstand)
+
+# Kursusgennemgang
 
 ## 1. Introduktion til R, Rstudio og data analyse
 
