@@ -1,4 +1,4 @@
-# R aftenskole
+# R kursus
 2 undervisningsgange af 3 timer inklusive pauser \
 30 minutter før og efter hver undervisningsgang, til Q&A \
 Øvelser som frivilligt hjemmearbejde.
